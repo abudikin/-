@@ -7,7 +7,7 @@
 - CSS3 (Flexbox, Grid)
 
 ## Развернутый сайт
-Сайт доступен по следующей ссылке: [Мой сайт на GitHub Pages](https://username.github.io/repository-name)
+Сайт доступен по следующей ссылке: [Мой сайт на GitHub Pages](https://abudikin.github.io/portfolio/)
 
 ## Установка и запуск локально
 1. Клонируйте репозиторий:
