@@ -12,4 +12,4 @@
 ## Установка и запуск локально
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/abudikin/portfolio.git
